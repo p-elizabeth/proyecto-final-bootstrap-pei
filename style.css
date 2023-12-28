@@ -1,0 +1,73 @@
+#mainTitle, #sndTitle{
+    background-color: rgb(242, 224, 247);
+    border-color: rgb(89, 9, 164);
+    box-shadow: 5px;
+    margin-top: 20px;
+    height: 50px;
+};
+
+
+
+#logoup{
+    margin-left: 20px;
+    margin-right: 20px;
+};
+
+.navbar-brand{
+    margin-left: 50px;
+    padding-left: 20px;
+    background-color: rgb(242, 224, 247);
+};
+
+.navbar navbar-expand-lg navbar-light bg-light{
+    background-color: rgb(242, 224, 247);
+    border-color: rgb(89, 9, 164);
+    border-width: 10px;
+
+}
+h1{
+    padding-left: 50px;
+    margin-left: 20px;
+};
+
+h3{
+    color: brown;
+    text-decoration: underline ;
+}
+
+.goBackUp {
+    background-color: rgb(139, 209, 244);
+    border-radius: 10px;
+    position: fixed;
+    bottom: 50px;
+    right: 3%;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+};
+
+
+.card{
+    background-color:   #c7d9c2;
+}
+
+#cirDentOrt, #endoPerio, #oPediatra, #estomat, #discap, #protesis, #implants, #aleriaImag{
+    margin-top: 40px;   
+};
+.mainCore{
+    background-color: rgb(44, 30, 243);
+}
+
+
+
+aside{
+    background-color: rgb(248, 233, 216);
+};
+
+#datosLogo{
+    justify-items: center;
+};
